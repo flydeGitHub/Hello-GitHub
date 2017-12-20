@@ -1,2 +1,2 @@
 # Hello-GitHub
-my first repository
+基于长轮询的扫码登录
